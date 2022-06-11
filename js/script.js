@@ -66,7 +66,7 @@ function initGame() {
         }
         const score = document.getElementById("score").innerHTML;
 
-        if (score == 150) {
+        if (score == 100) {
             youWin.style.display = 'block';
             reset(pipePosition, marioPosition);
         }

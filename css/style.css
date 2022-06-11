@@ -15,7 +15,7 @@ body {
     font-weight: bolder;
     font-family: 'Anton', sans-serif;
     letter-spacing: 2px;
-    height: 500px;
+    height:600px;
     margin: 0 auto;
     position: relative;
     overflow: hidden;
@@ -90,7 +90,7 @@ body {
     margin: auto;
     position: absolute;
     right: 450px;
-    top: 200px;
+    top: 100px;
     width: 50%;
     display: none;
 }
@@ -100,7 +100,7 @@ body {
     margin: auto;
     position: absolute;
     right: 450px;
-    top: 200px;
+    top: 100px;
     width: 50%;
     display: none;
 }
